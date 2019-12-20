@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dashleads-website/precache-manifest.8457f79047c8b121c79a607b17f22c77.js"
+  "/dashleads-website/precache-manifest.47aaba4fd67c6a10335679f3c1379246.js"
 );
 
 self.addEventListener('message', (event) => {
