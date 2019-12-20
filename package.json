@@ -2,7 +2,7 @@
     "name": "dashleads-website",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://jobspacecreative.github.io/dashleads-website",
+    "homepage": "https://dashboardleads.com.br/",
     "dependencies": {
         "bootstrap": "^4.3.1",
         "gh-pages": "^2.1.1",
