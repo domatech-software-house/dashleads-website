@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "690c680029f048fb7fe03a1e61957e59",
+    "revision": "37e7e90af62dcbbf3374d4170cb0788a",
     "url": "/dashleads-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dashleads-website/static/css/2.b0bb7f2c.chunk.css"
   },
   {
-    "revision": "dcc3216e68a7e7aac1f8",
-    "url": "/dashleads-website/static/css/main.5c47bab2.chunk.css"
+    "revision": "d5cab327b0c42777f4e3",
+    "url": "/dashleads-website/static/css/main.0bb7a1f0.chunk.css"
   },
   {
     "revision": "71079f04517138a8637d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dashleads-website/static/js/2.d024f223.chunk.js.LICENSE"
   },
   {
-    "revision": "dcc3216e68a7e7aac1f8",
-    "url": "/dashleads-website/static/js/main.88796c03.chunk.js"
+    "revision": "d5cab327b0c42777f4e3",
+    "url": "/dashleads-website/static/js/main.1ccbe742.chunk.js"
   },
   {
     "revision": "525b433b6e51138993b6",

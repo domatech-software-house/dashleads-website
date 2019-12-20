@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dashleads-website/static/css/main.5c47bab2.chunk.css",
-    "main.js": "/dashleads-website/static/js/main.88796c03.chunk.js",
-    "main.js.map": "/dashleads-website/static/js/main.88796c03.chunk.js.map",
+    "main.css": "/dashleads-website/static/css/main.0bb7a1f0.chunk.css",
+    "main.js": "/dashleads-website/static/js/main.1ccbe742.chunk.js",
+    "main.js.map": "/dashleads-website/static/js/main.1ccbe742.chunk.js.map",
     "runtime-main.js": "/dashleads-website/static/js/runtime-main.1d86527b.js",
     "runtime-main.js.map": "/dashleads-website/static/js/runtime-main.1d86527b.js.map",
     "static/css/2.b0bb7f2c.chunk.css": "/dashleads-website/static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.d024f223.chunk.js": "/dashleads-website/static/js/2.d024f223.chunk.js",
     "static/js/2.d024f223.chunk.js.map": "/dashleads-website/static/js/2.d024f223.chunk.js.map",
     "index.html": "/dashleads-website/index.html",
-    "precache-manifest.47aaba4fd67c6a10335679f3c1379246.js": "/dashleads-website/precache-manifest.47aaba4fd67c6a10335679f3c1379246.js",
+    "precache-manifest.2c97941b9adb08d5e68ebaf0c94812cc.js": "/dashleads-website/precache-manifest.2c97941b9adb08d5e68ebaf0c94812cc.js",
     "service-worker.js": "/dashleads-website/service-worker.js",
     "static/css/2.b0bb7f2c.chunk.css.map": "/dashleads-website/static/css/2.b0bb7f2c.chunk.css.map",
-    "static/css/main.5c47bab2.chunk.css.map": "/dashleads-website/static/css/main.5c47bab2.chunk.css.map",
+    "static/css/main.0bb7a1f0.chunk.css.map": "/dashleads-website/static/css/main.0bb7a1f0.chunk.css.map",
     "static/js/2.d024f223.chunk.js.LICENSE": "/dashleads-website/static/js/2.d024f223.chunk.js.LICENSE",
-    "static/media/styles.css": "/dashleads-website/static/media/background-login.9f5a5714.png",
+    "static/media/styles.scss": "/dashleads-website/static/media/background-login.9f5a5714.png",
     "static/media/image-login.png": "/dashleads-website/static/media/image-login.57bf0e05.png",
     "static/media/rocket-white.svg": "/dashleads-website/static/media/rocket-white.0514ed39.svg"
   },
@@ -22,7 +22,7 @@
     "static/js/runtime-main.1d86527b.js",
     "static/css/2.b0bb7f2c.chunk.css",
     "static/js/2.d024f223.chunk.js",
-    "static/css/main.5c47bab2.chunk.css",
-    "static/js/main.88796c03.chunk.js"
+    "static/css/main.0bb7a1f0.chunk.css",
+    "static/js/main.1ccbe742.chunk.js"
   ]
 }
