@@ -3,7 +3,7 @@ import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import RocketWhite from '../../assets/img/rocket-white.svg';
-import ImgLogin from "../../assets/img/image-login.png";
+import Lottie from "../../components/Lottie";
 
 const styles = {
     header: {
@@ -50,8 +50,8 @@ export default class Home extends Component {
                             </p>
                             <a href="https://my.dashboardleads.com.br/" className="btn btn-muted text-uppercase" style={styles.link} >Fazer Login</a>
                         </Col>
-                        <Col xs={12} md={5} className="d-none d-md-flex align-items-center justify-content-end offset-md-1">
-                            <img src={ImgLogin} className="img-fluid" alt="Business" />
+                        <Col xs={12} md={6} className="d-none d-md-flex align-items-center justify-content-end px-0">
+                            <Lottie />
                         </Col>
                     </Row>
                     <Row className="fixed-bottom py-1 px-2 justify-content-end">
