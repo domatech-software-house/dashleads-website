@@ -1,6 +1,6 @@
 # Dashboard Leads - Website
 
-- [Site](https://dashboardleads.com.br);
+[Site](https://dashboardleads.com.br);
 
 ## Developers
 
