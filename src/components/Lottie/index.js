@@ -23,7 +23,7 @@ export default class Lotties extends Component {
             svg: {
                 width: "100%",
                 heigth: "auto",
-                transform: "translate3d(0px, 0px, 0px) scale(1.5)"
+                // transform: "translate3d(0px, 0px, 0px) scale(1.5)"
             }
         }
 
